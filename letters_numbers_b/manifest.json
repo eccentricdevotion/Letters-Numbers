@@ -1,0 +1,25 @@
+{
+	   "format_version":1,
+	   "header":{
+		  "name":"Letters & Numbers Behaviour Pack",
+		  "description":"Letter, number and math blocks",
+		  "uuid":"6c94addc-d37c-43f5-90d5-0fddad1379c2",
+		  "version":[ 1, 0, 0 ],
+		  "min_engine_version":[ 1, 10, 0 ]
+	   },
+	   "modules":[
+		  {
+			 "description":"Letter, number and math blocks",
+			 "type":"data",
+			 "uuid":"6fa8df22-14c7-4c6e-893e-42efe5ce033d",
+			 "version":[ 1, 0, 0 ]
+		  }
+	   ],
+	   "dependencies":[
+		  {
+			 "uuid":"4bb56a76-5f72-407b-9e62-5ea5e227f050",
+			 "version":[ 1, 0, 0 ]
+		  }
+	   ]
+	}
+	

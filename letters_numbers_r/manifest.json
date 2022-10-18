@@ -1,0 +1,25 @@
+{
+	   "format_version":1,
+	   "header":{
+		  "name":"Letters & Numbers Resource Pack",
+		  "description":"Letter, number and math blocks",
+		  "uuid":"4bb56a76-5f72-407b-9e62-5ea5e227f050",
+		  "version":[ 1, 0, 0 ],
+		  "min_engine_version":[ 1, 10, 0 ]
+	   },
+	   "modules":[
+		  {
+			 "description":"Letter, number and math blocks",
+			 "type":"resources",
+			 "uuid":"7e4f8559-9566-4f9c-8d87-c42d2255e777",
+			 "version":[ 1, 0, 0 ]
+		  }
+	   ],
+	   "dependencies":[
+		  {
+			 "uuid":"6c94addc-d37c-43f5-90d5-0fddad1379c2",
+			 "version":[ 1, 0, 0 ]
+		  }
+	   ]
+	}
+	
